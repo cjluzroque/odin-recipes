@@ -1,0 +1,27 @@
+/* style.css */
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+ul li {
+    color:blue;
+}
+
+ol li {
+    color:purple;
+}
+
+h2, h3 {
+    color:darkred;
+}
+
+p {
+    font-family: cursive;
+}
+
+a {
+    text-align: center;
+}
