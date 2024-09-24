@@ -25,3 +25,20 @@ p {
 a {
     text-align: center;
 }
+
+.one {
+    color: darkgreen;
+    font-style: italic;
+}
+
+.two {
+    color: darkorange;
+}
+
+.three {
+    color: darkcyan;
+}
+
+#last {
+    font-weight: bolder;
+}
