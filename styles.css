@@ -3,12 +3,22 @@
 /* Set alternative box model */
 html {
     box-sizing: border-box;
+    border: 1px solid;
+
 }
 
 *,
 *::before,
 *::after {
     box-sizing: inherit;
+}
+
+.list {
+    text-align: center;
+    padding: 20px;
+    background: lightblue;
+    margin: 10px auto;
+    display: block;
 }
 
 h1 {
