@@ -26,6 +26,11 @@ html {
     border: 2px solid;
 }
 
+.dishpic {
+    display: block;
+    margin: 0 auto;
+}
+
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bolder;
