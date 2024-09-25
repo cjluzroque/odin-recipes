@@ -15,10 +15,15 @@ html {
 
 .list {
     text-align: center;
-    padding: 20px;
+    vertical-align: middle;
+    line-height: 100px;
+    text-decoration: none;
+    height: 100px;
+    width: 300px;
+    margin: 20px auto;
     background: lightblue;
-    margin: 10px auto;
     display: block;
+    border: 2px solid;
 }
 
 h1 {
