@@ -14,13 +14,12 @@ html {
 
 .list {
     text-align: center;
-    vertical-align: middle;
     line-height: 100px;
     text-decoration: none;
     height: 100px;
     width: 350px;
     margin: 20px auto;
-    background: darkorchid;
+    background: rgb(156, 62, 204);
     display: block;
     border: 5px ridge blueviolet;
 }
@@ -32,8 +31,9 @@ html {
 }
 
 .dishpic {
-    display: block;
     margin: 0 auto;
+    display: block;
+    width: auto;
 }
 
 h1 {
