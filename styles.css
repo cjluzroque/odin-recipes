@@ -12,6 +12,8 @@ html {
     box-sizing: inherit;
 }
 
+
+/* Homepage button style */
 .list {
     text-align: center;
     line-height: 100px;
@@ -30,12 +32,20 @@ html {
     color: white;
 }
 
+/* Centering image link */
 .dishpic {
     margin: 0 auto;
     display: block;
-    width: auto;
 }
 
+.dishpic img {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+
+/* Generic element styles */
 h1 {
     font-family: fantasy;
     font-weight: bolder;
