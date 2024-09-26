@@ -27,7 +27,7 @@ html {
 }
 
 .buttonfont {
-    font-family: fantasy, "Times New Roman";
+    font-family: fantasy, 'Times New Roman', Times, serif;
     font-weight: bold;
     color: white;
 }
@@ -47,7 +47,7 @@ html {
 
 /* Generic element styles */
 h1 {
-    font-family: fantasy;
+    font-family: fantasy, 'Times New Roman', Times, serif;
     font-weight: bolder;
     text-align: center;
     color:white;
