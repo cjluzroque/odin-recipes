@@ -27,7 +27,7 @@ html {
 }
 
 .buttonfont {
-    font-family: fantasy;
+    font-family: fantasy, "Times New Roman";
     font-weight: bold;
     color: white;
 }
